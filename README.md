@@ -1,2 +1,2 @@
 # stock-price-prediction-using-ARIMA-model-Time-Series-Analysis-
-qjefnjwe
+This study explores stock price prediction utilizing a machine learning approach, specifically employing the ARIMA (AutoRegressive Integrated Moving Average) model. Leveraging regression techniques and model evaluation through AIC (Akaike Information Criterion), the research aims to enhance forecasting accuracy. The hypotheses testing assesses the significance of model parameters in predicting stock prices. By integrating statistical methodologies and machine learning, this study con- tributes to the advancement of robust and reliable stock price prediction models, offering valuable insights for investors and financial analysts.
